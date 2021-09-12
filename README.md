@@ -1,16 +1,11 @@
-# skid_assessment
+# Skid Assessment
 
-A new Flutter project.
+**Steps to setup the project**
+1. Clone the project
+2. Run flutter clean
+3. Run flutter pub get
 
-## Getting Started
+### Preview of the app
+![1](https://user-images.githubusercontent.com/62237653/132994063-a7cdf26f-c5f4-4ed3-be58-1d3e9faff2cc.png) ![2](https://user-images.githubusercontent.com/62237653/132994087-3751c6f7-28e0-4e13-98a0-62412d615103.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Download [APK](https://github.com/MohitSingh2002/skid_assessment/releases/download/v1.0/app-release.apk)
